@@ -1,3 +1,5 @@
 #git prepartion. 
 #Learning git commands
 
+echo git push completed
+echo recieved file and editing in git 
