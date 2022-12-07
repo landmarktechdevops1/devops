@@ -3,3 +3,5 @@
 
 echo "Hello Daniel"
 
+#file recieved in git from linux server today wednesday.
+#succesful ran commands this time
